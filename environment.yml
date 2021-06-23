@@ -1,0 +1,15 @@
+name: bert4sentiment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - numpy
+  - pip
+  - pandas
+  - pytorch
+  - transformers
+  - matplotlib
+  - seaborn
+  - watermark
+  -  scikit-learn
